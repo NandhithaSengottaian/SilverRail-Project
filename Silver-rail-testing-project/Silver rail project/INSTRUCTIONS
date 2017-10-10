@@ -1,0 +1,7 @@
+INSTRUCTIONS :
+
+1. Create a maven project with the necessary libraries in the dependency (cucumber, junit, etc.)
+
+2. Create the feature file PostcodeAPI.feature and step definition  PostcodeAPI.java as part of the project
+
+3. Run mvn clean test to execute the testcases
