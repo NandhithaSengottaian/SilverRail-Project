@@ -32,12 +32,3 @@ When I provide an  invalid postal code in the request
 |postcode|
 ||
 Then I should not get a response
-
-
-INSTRUCTION :
-
-1. Create a maven project with the necessary libraries in the dependency (cucumber, junit, etc.)
-
-2.  Feature file will be in PostcodeAPI.feature and step definition in PostcodeAPI.java as part of the project
-
-3. Run mvn clean test to execute the testcases
